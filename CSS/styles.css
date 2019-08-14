@@ -1,0 +1,23 @@
+body {
+ background-color: #ffd700;
+ color: #0000ff;
+}
+h1, h2, h3, h4, h5, h6 {
+ text-decoration: underline;
+ font-family: "Trebuchet";
+}
+h1 {
+font-size: 36px;
+text-align: center;
+}
+img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+.center {
+ text-align: center;
+}
+.middle {
+ text-align: center;
+}
